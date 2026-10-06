@@ -65,7 +65,7 @@ how the package is put together.
 Linux/macOS:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Gitlawb/zero/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/cawa0505/zero/main/scripts/install.sh | bash
 ```
 
 Windows PowerShell:
